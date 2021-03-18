@@ -1,5 +1,7 @@
 ### Hey,Vidhi here 👋
 
+I'm a creative thinker.I'm always lokking for new opportunities to learn.
+
 <!--
 **vidhi1121/vidhi1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
